@@ -1,4 +1,4 @@
-# 💻 Hi, I'm Rehana Sharmin (Devfor)
+**💻 Hi, I'm Rehana Sharmin (Devfor)**
 
 A passionate developer who loves building functional terminal tools, exploring low-level systems, Currently focused on developing **Progflow**.
 
