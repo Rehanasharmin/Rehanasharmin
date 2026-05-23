@@ -1,17 +1,24 @@
 **💻 Hi, I'm Rehana Sharmin (Devfor)**
 
-A passionate developer who loves building functional terminal tools, exploring low-level systems, Currently focused on developing **Progflow**.
+A terminal-focused developer passionate about building functional tools, exploring low-level systems, and testing AI integrations. Currently actively building and maintaining **Progflow**.
 
 ---
 
-### 🚀 Projects & Work
+### 📊 Real-Time GitHub Statistics
+![Rehana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rehanasharmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+---
+
+### 🚀 Featured Repository: Progflow
 * **[Progflow](https://github.com/Rehanasharmin/Progflow)** - A context-aware workspace manager for Linux and terminal environments, built with Rust.
-* **[Picoclaw-termux-installation](https://github.com/Rehanasharmin/Picoclaw-termux-installation)** - A streamlined guide for setting up Picoclaw in Termux.
+
+![Progflow Stars](https://img.shields.io/github/stars/Rehanasharmin/Progflow?style=for-the-badge&color=7aa2f7&label=Progflow%20Stars)
+![Progflow Language](https://img.shields.io/github/languages/top/Rehanasharmin/Progflow?style=for-the-badge&color=bb9af7)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-Here are the languages and environments I work with:
+Here are the environments and frameworks I frequently work in:
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -19,5 +26,11 @@ Here are the languages and environments I work with:
 
 ---
 
-### 🌐 My tools website 
-* 🌐 **Website:** [progflowcli.netlify.app](https://progflowcli.netlify.app)
+### 📈 Contribution Activity Graph
+[![Rehana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rehanasharmin&theme=tokyonight)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🌐 Connect With Me
+* **Website:** [progflowcli.netlify.app](https://progflowcli.netlify.app)
+* **Guides:** [Picoclaw-termux-installation](https://github.com/Rehanasharmin/Picoclaw-termux-installation)
