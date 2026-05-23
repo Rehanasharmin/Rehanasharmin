@@ -5,7 +5,7 @@ A terminal-focused developer passionate about building functional tools, explori
 ---
 
 ### 📊 Real-Time GitHub Statistics
-![Rehana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rehanasharmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Rehana's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rehanasharmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
